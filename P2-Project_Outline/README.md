@@ -7,12 +7,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+Our app, Countdown is a media/event tracker that allows unauthorized users to browse media/events that will be released soon.  Authorized users will be allowed to save event/media cards to their personal dashboard so they can keep track of upcoming events/releases that they are interested.  Our MVP will start with tracking soon to be released movies, but will be expanded to include other media.
+
 ### Features
-Include Features here
+
+Users will be able to:
+  - Register an account
+  - Login to their account
+  - Save event/media cards that interest them
+  - Delete event/media cards that they are no longer interested in
+  - Create their own events
+
 ### Technologies
-Include Technologies here
+
+  - C#
+  - Angular
+  - ASP.NET
+  - Entity
+  - MySql
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+We will have to build on our prior knowledge of C#, Angular and the other technologies to get it to work for the features we want.  We will have to learn how to connect  a C# API with an Angular front end to implement CRUD and user authentication.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/WPT1FaBd/projectscope
